@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(196, 189, 190);
+}
+.count{
+    background-color: rgb(197, 197, 197);
+    width: 500px;
+    height: 40vh;
+    margin-top: 20px;
+    margin-left: 33%;
+    text-align: center;
+    border: 6px solid black;
+    border-radius: 40px;
+}
+h1{
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+}
+button{
+    width: 100px;
+    font-size: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border: 6px solid black;
+    border-radius: 10px;
+    
+}
+
+#reset{
+    font-size: 30px;
+    width: 140px;
+}
+.reset{
+    text-align: center;
+    margin-top: 40px;
+}
